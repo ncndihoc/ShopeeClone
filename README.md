@@ -2,6 +2,8 @@
 
 ## Chức năng trong dự án
 
+- Demo account: user: namdemo@gmail.com, pass: 123456
+
 - Authentication module: Quản lý bằng JWT
 
   - Đăng ký
